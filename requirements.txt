@@ -1,0 +1,11 @@
+numpy
+pathos
+tqdm
+pyyaml
+scipy
+opencv-python
+albumentations
+rtree
+prefetch_generator
+tensorboard
+hopcroftkarp
