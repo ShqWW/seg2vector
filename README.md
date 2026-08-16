@@ -140,7 +140,7 @@ If you want to evaluate the SAM2 version on the City-Scale dataset, run:
 bash shell/eval/sam2_cityscale.py
 ```
 
-We also provide our [trained checkpoints](https://github.com/ShqWW/seg2vector/releases/download/v0.0/seg2vector_ckpt.tar).
+We also provide our [trained checkpoints](https://github.com/ShqWW/seg2vector/releases/download/v0.0/work_dir.tar).
 
 ## Citation
 
