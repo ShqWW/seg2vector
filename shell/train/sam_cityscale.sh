@@ -12,6 +12,6 @@ train.py --is_multigpu 1 \
 --cfg ./Config/sam_cityscale.py \
 --load_path work_dir_ori/sam_cityscale_seg \
 --load_no 11 12 13 \
---save_path work_dir/sam_cityscale_vector2 \
+--save_path work_dir/sam_cityscale_vector \
 --train_vector 1
 
