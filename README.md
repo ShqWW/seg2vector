@@ -63,7 +63,7 @@ python setup.py install
 Download the City-Scale, SpaceNet, and Global-Scale datasets and place them in any directory with a structure like this:
 
 ```text
-/yourdataset/
+/yourpath/
 |-- cityscale/
 |   |-- 20cities/
 |   |-- data_split.json
